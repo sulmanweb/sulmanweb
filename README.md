@@ -20,6 +20,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [GitHub Actions: Run RSpec Test On Every Push For Free](https://dev.to/sulmanweb/github-actions-run-rspec-test-on-every-push-for-free-1pb6)
+- [Moved My Blog Website From WordPress To Dev.to With VueJS](https://dev.to/sulmanweb/moved-my-blog-website-from-wordpress-to-dev-to-with-vuejs-kdg)
+- [Initialise Rails API backend and VueJS App Frontend in Docker for development](https://dev.to/sulmanweb/initialise-rails-api-backend-and-vuejs-app-frontend-in-docker-for-development-3ab2)
+- [Building Minimal Responsive Signup Page with TailwindCSS](https://dev.to/sulmanweb/building-minimal-responsive-signup-page-with-tailwindcss-29e9)
+- [Active Record Transactions in Ruby on Rails](https://dev.to/sulmanweb/active-record-transactions-in-ruby-on-rails-3ok6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
