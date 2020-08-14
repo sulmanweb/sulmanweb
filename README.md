@@ -21,11 +21,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Simple ToDo GraphQL API in VueJS & TailwindCSS with Docker [PART 03]](https://dev.to/sulmanweb/simple-todo-graphql-api-in-vuejs-tailwindcss-with-docker-part-03-1483)
 - [Simple ToDo GraphQL API in Ruby on Rails and MongoDB with Docker [PART 02]](https://dev.to/sulmanweb/simple-todo-graphql-api-in-ruby-on-rails-and-mongodb-with-docker-part-02-3d2f)
 - [Simple ToDo GraphQL API in Ruby on Rails and MongoDB with Docker [PART 01]](https://dev.to/sulmanweb/simple-todo-graphql-api-in-ruby-on-rails-and-mongodb-with-docker-part-01-40n7)
 - [GitHub Actions: Run RSpec Test On Every Push For Free](https://dev.to/sulmanweb/github-actions-run-rspec-test-on-every-push-for-free-1pb6)
 - [Moved My Blog Website From WordPress To Dev.to With VueJS](https://dev.to/sulmanweb/moved-my-blog-website-from-wordpress-to-dev-to-with-vuejs-kdg)
-- [Initialise Rails API backend and VueJS App Frontend in Docker for development](https://dev.to/sulmanweb/initialise-rails-api-backend-and-vuejs-app-frontend-in-docker-for-development-3ab2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
