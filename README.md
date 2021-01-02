@@ -1,7 +1,7 @@
 ### Hi there, I'm Sulman - aka [sulmanweb][website] 👋
 
 ## I'm a Husband, Father, and Developer!
-- 🔭 I’m currently working as Software Engineer @ [MailMunch](https://www.mailmunch.com)
+- 🔭 I’m currently working as Principal Software Engineer @ [MailMunch](https://www.mailmunch.com)
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
