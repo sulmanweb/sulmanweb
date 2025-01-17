@@ -14,7 +14,7 @@ Highly skilled Senior Backend Engineer and Full-Stack Developer with over 11 yea
 * 🤝  I'm open to collaborating on interesting projects
 * 💰  Hire me for your next project [here](https://www.upwork.com/fl/sulmanweb?mp_source=share)
 
-## Recent Blog Posts
+## 📰 Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Rails Self-Join Tables: Parent-Child Magic](https://sulmanweb.com/rails-self-referential-table-inheritance-tutorial)
