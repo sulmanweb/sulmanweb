@@ -17,5 +17,14 @@ Highly skilled Senior Backend Engineer and Full-Stack Developer with over 11 yea
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
+- [Rails Self-Join Tables: Parent-Child Magic](https://sulmanweb.com/rails-self-referential-table-inheritance-tutorial)
+- [Rails 8 CRUD: Modern Development Guide 2025](https://sulmanweb.com/rails-8-modern-crud-development-guide)
+- [Deploying Rails 8 Applications: A Complete Guide with Docker, Kamal, and Cloudflare](https://sulmanweb.com/deploy-rails-8-docker-kamal-production-guide)
+- [Rails GraphQL Auth - JWT, Email &amp; Security](https://sulmanweb.com/rails-graphql-authentication-jwt-email-security)
+- [Rails Soft Delete &amp; Audit Logging Guide](https://sulmanweb.com/rails-soft-delete-audit-logging-implementation)
+- [Rails Testing for Financial Operations](https://sulmanweb.com/rails-testing-for-financial-operations)
+- [Building a GitHub Activity CLI - A Ruby Journey](https://sulmanweb.com/building-github-activity-cli-ruby-guide)
+- [Task Tracker CLI](https://sulmanweb.com/task-tracker-cli)
+- [Build a Currency Exchange Service in Ruby on Rails](https://sulmanweb.com/rails-currency-exchange-service)
+- [Service Objects: Level Up Your Rails Architecture](https://sulmanweb.com/implementing-service-objects-rails-clean-architecture)
 <!-- BLOG-POST-LIST:END -->
