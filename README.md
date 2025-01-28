@@ -17,6 +17,7 @@ Highly skilled Senior Backend Engineer and Full-Stack Developer with over 11 yea
 ## 📰 Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Rails 8 Production Setup with Dokku Guide](https://sulmanweb.com/rails-8-production-dokku-deployment-guide)
 - [Heroku to Dokku: A Rails Dev&#39;s Migration Tale](https://sulmanweb.com/heroku-to-dokku-rails-migration-guide)
 - [Rails 8 CI/CD: GitHub Actions &amp; Kamal 2025](https://sulmanweb.com/rails-8-github-actions-kamal-automated-deployment-guide)
 - [Rails Self-Join Tables: Parent-Child Magic](https://sulmanweb.com/rails-self-referential-table-inheritance-tutorial)
@@ -26,5 +27,4 @@ Highly skilled Senior Backend Engineer and Full-Stack Developer with over 11 yea
 - [Rails Soft Delete &amp; Audit Logging Guide](https://sulmanweb.com/rails-soft-delete-audit-logging-implementation)
 - [Rails Testing for Financial Operations](https://sulmanweb.com/rails-testing-for-financial-operations)
 - [Building a GitHub Activity CLI - A Ruby Journey](https://sulmanweb.com/building-github-activity-cli-ruby-guide)
-- [Task Tracker CLI](https://sulmanweb.com/task-tracker-cli)
 <!-- BLOG-POST-LIST:END -->
