@@ -17,6 +17,7 @@ Highly skilled Senior Backend Engineer and Full-Stack Developer with over 11 yea
 ## 📰 Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Master Shopify Embedded Apps with Rails 8](https://sulmanweb.com/shopify-embedded-apps-rails-guide-best-practices)
 - [Build Secure Shopify Apps with App Bridge](https://sulmanweb.com/building-secure-shopify-apps-with-app-bridge)
 - [Rails CI/CD with Dokku &amp; GitHub Actions](https://sulmanweb.com/rails-dokku-github-actions-deployment)
 - [Rails 8 Production Setup with Dokku Guide](https://sulmanweb.com/rails-8-production-dokku-deployment-guide)
@@ -26,5 +27,4 @@ Highly skilled Senior Backend Engineer and Full-Stack Developer with over 11 yea
 - [Rails 8 CRUD: Modern Development Guide 2025](https://sulmanweb.com/rails-8-modern-crud-development-guide)
 - [Deploying Rails 8 Applications: A Complete Guide with Docker, Kamal, and Cloudflare](https://sulmanweb.com/deploy-rails-8-docker-kamal-production-guide)
 - [Rails GraphQL Auth - JWT, Email &amp; Security](https://sulmanweb.com/rails-graphql-authentication-jwt-email-security)
-- [Rails Soft Delete &amp; Audit Logging Guide](https://sulmanweb.com/rails-soft-delete-audit-logging-implementation)
 <!-- BLOG-POST-LIST:END -->
